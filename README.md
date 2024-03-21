@@ -1,4 +1,4 @@
-# Obesity Muti-Class Classification Using PySpark
+# Modern Data Architecture Project - Obesity Muti-Class Classification
 
 ## Overview
 This project demonstrates the use of Apache Spark for classifying obesity levels in individuals based on various features. The analysis is implemented in a Jupyter Notebook and covers data processing, model training, and evaluation using PySpark's MLlib.
