@@ -54,11 +54,3 @@ git clone https://github.com/jessih828/IE-MDA-Mar24-Group-7
 
 ### Running the Project
 Open the Jupyter Notebook in the repository and follow the instructions within to run the analysis.
-
-## Group Member 
-- JESSICA HSIEH
-- EUGENIO AUTRIQUE LÓPEZ
-- PIERPAOLO PACIELLO
-- ZIYAD ALBAADI
-- VICENTE LLOBELL LLUCH
-- MARIA ELENA GARCIA BAIZ
